@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": "Moves players to the appropiate team based on their dimension"
+    }
+}
